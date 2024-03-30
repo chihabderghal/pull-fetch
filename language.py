@@ -1,3 +1,8 @@
+# this was written in another branch from GitHub
+def Japanese() -> None:
+    print("Kon'nichiwa sekai")
+
+
 # this was written in the main branch
 def Spanish() -> None: 
     print("Hola, Mundo")
@@ -18,6 +23,7 @@ def main() -> None:
     English()
     French()
     Spanish()
+    Japanese()
 
 
 # this was written in the main branch
